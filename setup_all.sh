@@ -34,7 +34,7 @@ git config --global color.branch auto
 curl https://sh.rustup.rs -sSf | sh
 
 # -- nodejs npm ---------------------------------------------------
-sudo curl -sL https://deb.nodesource.com/setup_10.x | sudo bash
+sudo curl -sL https://deb.nodesource.com/setup_14.x | sudo bash
 sudo apt install -y nodejs
 
 # -- VS Code -------------------------------------------------------
